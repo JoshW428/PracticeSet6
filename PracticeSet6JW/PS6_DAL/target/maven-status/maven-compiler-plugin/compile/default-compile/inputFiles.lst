@@ -1,0 +1,6 @@
+/Users/JoshMac/git/PS6_JoshWeinick/PS6_DAL/src/main/java/domain/PersonDomainModel.java
+/Users/JoshMac/git/PS6_JoshWeinick/PS6_DAL/src/main/java/domain/StudentDomainModel.java
+/Users/JoshMac/git/PS6_JoshWeinick/PS6_DAL/src/main/java/util/LocalDateAdapter.java
+/Users/JoshMac/git/PS6_JoshWeinick/PS6_DAL/src/main/java/base/PersonDAL.java
+/Users/JoshMac/git/PS6_JoshWeinick/PS6_DAL/src/main/java/util/HibernateUtil.java
+/Users/JoshMac/git/PS6_JoshWeinick/PS6_DAL/src/main/java/base/StudentDAL.java
